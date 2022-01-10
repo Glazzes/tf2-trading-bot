@@ -1,0 +1,18 @@
+{
+  "name": "steambot",
+  "version": "1.0.0",
+  "description": "Basic team fortress 2 steam trading bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/steam-user": "^4.20.0",
+    "steam-tradeoffer-manager": "^2.10.4",
+    "steam-user": "^4.20.2",
+    "steam-user-inventory": "^4.2.0",
+    "steamcommunity": "^3.43.1"
+  }
+}
